@@ -3,7 +3,7 @@ import Link from "next/link";
 import { FC } from "react";
 import SignInButton from "@/components/SignInButton";
 import { buttonVariants } from "@/ui/Button";
-import SignOutButton from "@/components/SingOutButton";
+import SignOutButton from "@/components/SignOutButton";
 import ThemeToggle from "@/components/ThemeToggle";
 
 const Navbar = async ({}) => {
